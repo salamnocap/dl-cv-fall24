@@ -68,8 +68,8 @@ target/
 *.DS_Store
 *.pptx
 
-lab4/
 NA_Fish_Dataset/
+hymenoptera/
 
 *.drawio
 *.bkp
